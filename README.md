@@ -13,7 +13,6 @@ Cytrix Labs LLC is a United Arab Emirates–based leader in technology, cybersec
 - 📣 Discussions: enable GitHub Discussions on this org to engage with the community
 - 📄 License: set per-repo (default: `LICENSE` in each project)
 
-> Tip: Pin your flagship repos to the org profile for visibility (Settings → Profile → Pinned repositories).
 
 ---
 
@@ -51,7 +50,6 @@ Cytrix Labs LLC is a United Arab Emirates–based leader in technology, cybersec
 
 ## Projects & repositories
 
-> Pin / link your public projects here. Examples shown as structure:
 
 coming soon...
 
