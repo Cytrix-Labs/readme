@@ -53,13 +53,7 @@ Cytrix Labs LLC is a United Arab Emirates–based leader in technology, cybersec
 
 > Pin / link your public projects here. Examples shown as structure:
 
-- `falcons/` — Recon & ASM platform (Go + React).  
-- `gDorks/` — Adverse-media OSINT and AML/CFT screening toolkit (Python).  
-- `cti-blocklist/` — Region-aware threat intel aggregator with enrichment (Go).  
-- `cytrixpass/` — Post-quantum-ready password manager (Go + Rust crypto).  
-- `standards/` — Baselines, policies, blueprints (CIS/NIST/ISO mappings).
-
-*(Replace with your actual repos and brief one-liners.)*
+coming soon...
 
 ---
 
